@@ -16,6 +16,6 @@ pkg install git
 
 git clone https://github.com/assasingXploit/Link-Virus
 
-cd Virus
+cd Link-Virus
 
 sh Virus.sh
